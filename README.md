@@ -1,7 +1,7 @@
 # Nightwatch.js Examples
 
 [![npm](https://img.shields.io/npm/v/nightwatch.svg)](https://www.npmjs.com/package/nightwatch)
-[![Node.js CI](https://github.com/nightwatchjs/nightwatch-examples/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/nightwatchjs/nightwatch-examples/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/nightwatchjs/nightwatch-examples-esm/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/nightwatchjs/nightwatch-examples-esm/actions/workflows/node.js.yml)
 [![Discord][discord-badge]][discord]
 
 <p align="center">
@@ -10,11 +10,11 @@
 
 #### [Homepage](https://nightwatchjs.org) &bullet; [Developer Guide](https://nightwatchjs.org/guide) &bullet; [API Reference](https://nightwatchjs.org/api) &bullet; [About](https://nightwatchjs.org/about) &bullet; [Blog](https://nightwatchjs.org/blog)
 
-This is a Github Actions enabled sample project which runs the examples bundled with Nightwatch 2 in Google Chrome.
+Nightwatch 2.0 boilerplate for projects which using [ES Modules](https://nodejs.org/api/esm.html). Github Actions is enabled in Google Chrome.
 
 ## Run the Tests
 
-Clone the repository or click the "Use this template" button. Then install the dependencies and run the tests:
+Clone the repository and then install the dependencies and run the tests:
 
 ```
 npm install
