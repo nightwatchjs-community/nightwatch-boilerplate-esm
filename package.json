@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A Nightwatch 2 boilerplate project which runs the bundled examples in Github Actions against Google Chrome",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "nightwatch"
   },
