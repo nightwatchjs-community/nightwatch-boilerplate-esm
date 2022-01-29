@@ -1,7 +1,7 @@
 {
-  "name": "nightwatch-examples",
+  "name": "nightwatch-examples-esm",
   "version": "0.1.0",
-  "description": "A Nightwatch 2 boilerplate project which runs the bundled examples in Github Actions against Google Chrome",
+  "description": "Nightwatch 2.0 boilerplate for ESM projects which runs a few example tests in Github Actions against Google Chrome",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nightwatchjs/nightwatch-examples.git"
+    "url": "git+https://github.com/nightwatchjs/nightwatch-examples-esm.git"
   },
   "keywords": [
     "nightwatch",
@@ -19,10 +19,7 @@
   ],
   "author": "Andrei Rusu",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/nightwatchjs/nightwatch-examples/issues"
-  },
-  "homepage": "https://github.com/nightwatchjs/nightwatch-examples#readme",
+  "homepage": "https://nightwatchjs.org",
   "devDependencies": {
     "chromedriver": "^97.0.2",
     "nightwatch": "^2.0.2"
