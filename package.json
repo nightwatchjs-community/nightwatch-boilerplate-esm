@@ -22,6 +22,6 @@
   "homepage": "https://nightwatchjs.org",
   "devDependencies": {
     "chromedriver": "^97.0.2",
-    "nightwatch": "^2.0.2"
+    "nightwatch": "^2.0.5"
   }
 }
