@@ -1,7 +1,7 @@
 # Nightwatch.js Examples
 
 [![npm](https://img.shields.io/npm/v/nightwatch.svg)](https://www.npmjs.com/package/nightwatch)
-[![Node.js CI](https://github.com/nightwatchjs/nightwatch-examples-esm/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/nightwatchjs/nightwatch-examples-esm/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/nightwatchjs/nightwatch-boilerplate-esm/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/nightwatchjs/nightwatch-boilerplate-esm/actions/workflows/node.js.yml)
 [![Discord][discord-badge]][discord]
 
 <p align="center">
